@@ -361,6 +361,10 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+.img {
+    width: auto;
+    height: auto;
+}
 
 @media (min-width: 768px) {
     .site-navigation {
