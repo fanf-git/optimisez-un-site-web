@@ -11,6 +11,8 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+    width: auto;
+    height: auto;
 }
 
 a:hover {
@@ -361,10 +363,10 @@ a:hover {
     position: relative;
     z-index: 2;
 }
-.a {
+/*.a {
     width: auto;
     height: auto;
-}
+}*/
 
 @media (min-width: 768px) {
     .site-navigation {
