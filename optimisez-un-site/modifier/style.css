@@ -367,6 +367,12 @@ a:hover {
     width: auto;
     height: auto;
 }*/
+.agence-web{
+    position: absolute;
+}
+.agence-web-1{
+    position: absolute;
+}
 
 @media (min-width: 768px) {
     .site-navigation {
