@@ -52,6 +52,7 @@ a:hover {
 
 .bloc-md {
     padding: 50px;
+    padding-bottom: 157px;
 }
 
 .bloc-sm {
@@ -370,9 +371,9 @@ a:hover {
 .agence-web{
     position: absolute;
 }
-.agence-web-1{
+/*.agence-web-1{
     position: absolute;
-}
+}*/
 
 @media (min-width: 768px) {
     .site-navigation {
@@ -841,6 +842,7 @@ h4 {
     .bloc {
         padding-left: 20px;
         padding-right: 20px;
+        padding-bottom: 129px;
     }
     .bloc.full-width-bloc,
     .bloc-tile-2.full-width-bloc .container,
