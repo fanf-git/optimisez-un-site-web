@@ -83,21 +83,21 @@
 				<form id="form_1" novalidate success-msg="Your message has been sent." fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!">
 					<div class="form-group">
 						<label for="name">Nom</label>
-						<input type="text" id="name" name="user_name">
+						<input type="text" id="name" class="form-control" name="user_name">
 						<!--<input id="name" class="form-control" required />-->
 					</div>
 					<div class="form-group">
 						<label for="mail">Adresse email</label>
-						<input type="email" id="mail" name="user_mail">
-						<!--<input id="email" class="form-control" type="email" required />-->
+						<input type="email" id="mail" class="form-control" name="user_mail">
+						<!--<input id="mail" class="form-control" type="email" required />-->
 					</div>
 					<div class="form-group">
 						<label for="comment nous avez-vous connu ?">Comment nous avez-vous connu ?</label>
-						<input class="form-control" type="email" required id="input_504" />
+						<input type="texte" class="form-control" type="email" required id="input_504" />
 					</div>
 					<div class="form-group">
 						<label for="text">Brief de votre projet (Ajoutez autant de détails que nécessaire)<br></label>
-						<textarea id="message" name="user_message"></textarea>
+						<textarea id="message" class="form-control" name="user_message" rows="4" cols="50" required></textarea>
 						<!--<textarea id="message" class="form-control" rows="4" cols="50" required></textarea>-->
 					</div> 
 					<button class="bloc-button btn btn-lg btn-block cta-hero btn-atomic-tangerine" type="submit">
