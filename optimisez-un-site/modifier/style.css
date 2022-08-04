@@ -668,6 +668,14 @@ a {
     color: #000000!important;
 }
 
+.a{
+    color: #FFFFFF;
+}
+
+.end{
+    color: #FFFFFF;
+}
+
 .container {
     max-width: 1000px;
 }
@@ -750,7 +758,7 @@ h4 {
 }
 
 .white {
-    color: #000000!important;
+    color: #ffffff!important;
 }
 
 .portfolio-thumb {
