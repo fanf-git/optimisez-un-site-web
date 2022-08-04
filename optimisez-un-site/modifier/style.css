@@ -451,6 +451,7 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    color: #000000;
 }
 
 .mg-lg {
@@ -786,9 +787,14 @@ h4 {
 .bgc-atomic-tangerine {
     background-color: #F3976C;
 }
-
+.colo{
+    color: #FFFFFF!important;
+}
+.colory{
+    color: #000000!important;
+}
 .tc-white {
-    color: #ffffff!important;
+    color: #ffffff;
 }
 
 .btn-atomic-tangerine {
