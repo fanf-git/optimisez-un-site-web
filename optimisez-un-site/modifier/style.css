@@ -13,7 +13,7 @@ button {
     outline: none!important;
     width: auto;
     height: auto;
-    color: #FFFFFF;
+    color: #1F1F1F;
 }
 
 a:hover {
@@ -674,7 +674,7 @@ label,
 }
 
 .end{
-    color: #FFFFFF;
+    color: #1F1F1F;
 }
 
 .container {
