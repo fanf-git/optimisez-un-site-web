@@ -2136,7 +2136,7 @@ Dernier commit ea1a451 on 17 Sep 2018
    */
 
 } ) ) ;
-Bas de page
+/*Bas de page
 © 2022 GitHub, Inc.
 Navigation en pied de page
 Conditions
@@ -2150,4 +2150,4 @@ API
 Entraînement
 Blog
 À propos de
-Vous n'avez aucune notification non lue
+Vous n'avez aucune notification non lue*/
