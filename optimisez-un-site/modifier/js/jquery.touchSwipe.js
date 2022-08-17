@@ -1,4 +1,4 @@
-Aller au contenu
+/*Aller au contenu
 Rechercher ou passer à…
 Demandes d' extraction s
 Problèmes
@@ -27,7 +27,7 @@ Dernier commit ea1a451 on 17 Sep 2018
  Histoire
  20 contributeurs
 @mattbryson@Gamelle-@xanhast@willosof@wyoumans@damianwajer@tomfuertes@UziTech@prochain@norric@beatspace@mtyaka
-2109 lignes (1781 sloc)  76,4 Ko
+2109 lignes (1781 sloc)  76,4 Ko*/
 
 /* !
 * @fileOverview TouchSwipe - Plugin jQuery
@@ -185,7 +185,7 @@ Dernier commit ea1a451 on 17 Sep 2018
   }  else  if  ( typeof  module  !==  'undefined'  &&  module . exports )  {
     // Module CommonJS
     usine ( require ( "jquery" ) ) ;
-  }  sinon  {
+  }  /*sinon*/  {
     // Valeurs globales du navigateur.
     usine ( jQuery ) ;
   }
@@ -2135,7 +2135,7 @@ Dernier commit ea1a451 on 17 Sep 2018
    * @param { DomObject } target L'élément cliqué.
    */
 
-} ) ) ;
+} /*) )*/ ;
 /*Bas de page
 © 2022 GitHub, Inc.
 Navigation en pied de page
